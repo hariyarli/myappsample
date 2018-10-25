@@ -1,0 +1,2 @@
+This is 2nd file to check the flow of git
+Adding more info to vi editor file
